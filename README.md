@@ -12,4 +12,4 @@ Embedding is a process of converting data (texts) into a numerical format (vecto
  - Qwen3: The embedding model used to convert text into vectors.
 
 ## Files:
- - FirstEmbedding.py: A simple script to test the embedding model and see how it works.q
+ - FirstEmbedding.py: A simple script to test the embedding model and see how it works.
