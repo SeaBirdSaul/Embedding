@@ -1,2 +1,5 @@
 .venv
 vault_embeddings.pkl
+bm25_retriever.pkl
+faiss_index/index.faiss
+faiss_index/index.pkl
